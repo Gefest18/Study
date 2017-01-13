@@ -1,0 +1,17 @@
+/Users/igefest/Study/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/igefest/Study/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/igefest/Study/obj/Debug/Assembly-CSharp.dll
+/Users/igefest/Study/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/igefest/Study/Temp/bin/Debug/UnityEngine.dll
+/Users/igefest/Study/Temp/bin/Debug/UnityEditor.dll
+/Users/igefest/Study/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/igefest/Study/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/igefest/Study/Temp/bin/Debug/Mono.Cecil.dll
+/Users/igefest/Study/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/igefest/Study/Temp/bin/Debug/Unity.DataContract.dll
+/Users/igefest/Study/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/igefest/Study/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/igefest/Study/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/igefest/Study/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/igefest/Study/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/igefest/Study/Temp/bin/Debug/Mono.Cecil.Mdb.dll
